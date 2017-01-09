@@ -17,6 +17,7 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
+    'Blog' =>'博客',
     'Activation email' => '',
     'This email has already been taken.' => '',
     'Your account has been successfully activated.' => '',
